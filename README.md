@@ -17,5 +17,6 @@ _**Parameters:**_
 1. --url - url to run tests against
 
 _**How to run tests (Example):**_
+
 `pipenv run pytest --url "https://demo.applitools.com/hackathon.html"`
 
